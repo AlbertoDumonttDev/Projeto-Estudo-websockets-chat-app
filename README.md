@@ -1,4 +1,4 @@
-# Estruturas de Dados em Linguagem C
+# WebSockets com NodeJS, SocketIO e Bootstrap 5.
 
 Este repositório é a criação de um projeto básico sobre o estudo de WebSockets com NodeJS, SocketIO e Bootstrap 5.
 
