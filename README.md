@@ -2,7 +2,7 @@
 
 Este repositório é a criação de um projeto básico sobre o estudo de WebSockets com NodeJS, SocketIO e Bootstrap 5.
 
-- 🚀 **NodeJS :**Aprendendo a construir servidores e gerenciar aplicações de backend com NodeJS. Configurando um ambiente, criar e gerenciar pacotes, e utilizar o NodeJS para aplicações em tempo real.
+- 🚀 **NodeJS :** Aprendendo a construir servidores e gerenciar aplicações de backend com NodeJS. Configurando um ambiente, criar e gerenciar pacotes, e utilizar o NodeJS para aplicações em tempo real.
 - 🔄 **Socket.IO:** Explorando a biblioteca Socket.IO para comunicação em tempo real entre o servidor e o cliente. Entendendo como implementar WebSockets para criar chats, notificações e outras funcionalidades interativas.
 - 🎨 **Bootstrap 5:** Estilizando e criando interfaces responsivas e modernas com Bootstrap 5.
 - 🛠️ **ExpressJS:** Descubrindo como usar ExpressJS para criar e gerenciar rotas em sua aplicação NodeJS. Aprenda sobre a configuração de middleware, manipulação de requisições e respostas, e a criação de APIs RESTful. Vendo como ExpressJS simplifica o desenvolvimento de aplicações web e integra-se com Socket.IO.
